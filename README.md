@@ -1,5 +1,7 @@
 # Ryhm-3
 
+Õppejõu tehtud asjad on: (http://greeny.cs.tlu.ee/~rinde/veebiprogrammeerimine_2017/Ryhm-3/)
+
 ### Ühendus Greeny'sse
 
 * Windows | [VIDEO](https://youtu.be/kg5NAsRQAJ8)
